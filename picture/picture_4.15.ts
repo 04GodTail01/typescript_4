@@ -11,7 +11,7 @@ class getTextReading<T>{
     if( typeof value == "string"){
         return value;
     }else if(typeof value == "number"){
-        return value.toString();
+        return values.toString();
     }else if( typeof value == "object" && value instanceof Date ){
         return values.toLocaleString();
     }else{

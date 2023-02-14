@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "linq-es2015": "^2.5.1",
+    "linq-es5": "^1.11.15"
+  },
+  "dependencies": {
+    "linq": "^4.0.1"
+  }
+}
